@@ -1,4 +1,5 @@
 'use client';
+// Production-ready Cricket Scorecard Application
 
 import Link from 'next/link';
 
