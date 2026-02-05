@@ -408,5 +408,14 @@ For support, email support@cricketcharts.com or open an issue in the repository.
 ## Acknowledgments
 
 - Inspired by ESPNcricinfo
+- 
+## Deployment
+
+This project is configured for seamless deployment on Vercel:
+
+- **Live URL**: [cricket-live-scorecard.vercel.app](https://cricket-live-scorecard.vercel.app)
+- **Platform**: Vercel
+- **Auto-deployment**: Enabled on every push to main branch
+- **Framework**: Next.js 15 with App Router
 - Built with Next.js and modern web technologies
 - Thanks to the open-source community
